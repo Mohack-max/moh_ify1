@@ -1,0 +1,1 @@
+The repo contains all the codebase I have been working on till now, the technologies that I have used so far are :Angular and typescript and other simple web tech  but you can even create your own folder and completely ignore mine if you are not familiar with angular and create everything from scratch using the tech you master and I will sometimes check the progression 
